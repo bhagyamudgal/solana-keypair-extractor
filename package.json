@@ -1,6 +1,6 @@
 {
 	"name": "solana-keypair-extractor",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A node package which helps you in extracting public and private keys as base58 strings from the given wallet keypair.",
 	"main": "index.js",
 	"types": "index.d.ts",

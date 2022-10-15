@@ -1,0 +1,21 @@
+{
+	"name": "solana-keypair-extractor",
+	"version": "1.0.0",
+	"description": "A node package which helps you in extracting public and private keys as base58 strings from the given wallet keypair.",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"repository": "https://github.com/bhagyamudgal/solana-keypair-extractor.git",
+	"author": "Bhagya Mudgal <bhagyamudgal@gmail.com>",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"@solana/web3.js": "^1.65.0",
+		"bs58": "^5.0.0"
+	},
+	"keywords": [
+		"solana-keypair-extractor",
+		"solana keypair",
+		"solana private key from keypair",
+		"bhagyamudgal"
+	]
+}
